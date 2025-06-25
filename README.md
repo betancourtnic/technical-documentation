@@ -41,6 +41,7 @@ nslookup google.com
 
 2. [X] Verified that my desktop was properly assigned to the ProtonVPN client under the VPN Fusion configuration in the router dashboard, with NAT enabled.
    - Router dashboard > general > VPN > VPN Fusion
+   
    ![image](https://github.com/user-attachments/assets/06b087ce-4e8e-41e7-aa4a-e358dd6f3340)
    
 4. [X] Identified the active VPN endpoint and switched to a lower-latency regional WireGuard server by generating a new configuration file through ProtonVPN’s dashboard.
